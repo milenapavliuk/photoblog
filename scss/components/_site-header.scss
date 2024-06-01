@@ -1,0 +1,12 @@
+.header-link{
+    color: var(--link-color);
+    font-family: Playfair Display;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: uppercase;
+    }
+    .header-link :hover{
+        color: var(--accent-text-color);
+    }

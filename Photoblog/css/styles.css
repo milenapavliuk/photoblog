@@ -1,0 +1,43 @@
+:root{
+    --main-text-color: #626262;
+    --name-text-color: #B4AD9E;
+    --accent-text-color: #03A9F4;
+    --link-color: #7D7D7D;
+}
+.header-link{
+color: var(--link-color);
+font-family: Playfair Display;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: uppercase;
+}
+.header-link :hover{
+    color: var(--accent-text-color);
+}
+.gallery-category{
+    color: var(--name-text-color);
+font-family: Ubuntu;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+text-transform: uppercase;
+}
+.gallery-title{
+    color: var(--main-text-color);
+font-family: Playfair Display;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.gallery-text{
+    color: var(--main-text-color);
+font-family: Playfair Display;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

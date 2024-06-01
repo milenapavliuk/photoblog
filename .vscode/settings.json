@@ -1,0 +1,12 @@
+{
+    "liveSassCompile.settings.generateMap": false, // disable style map generation
+    "liveSassCompile.settings.formats": [
+    {
+    "format": "expanded", // expanded or compressed style format
+    // "autoprefix": "last 5 versions", // the compiler will add cross-browser prefixes for the last 5 versions of known browsers
+    "extensionName": ".css", // extension of the source file
+    "savePath": ".css" // the folder where the style file will be compiled
+    }
+    ],
+    
+    }
